@@ -1,0 +1,68 @@
+
+body{
+  background-image: url("/Users/danilobronzo/Desktop/IT/ES 6/img/background.jpg");
+  background-size: cover;
+
+}
+
+.riquadro{
+  background-color: #00000080;
+  width: 65%;
+  border-radius: 10px;
+  margin: auto;
+  padding: 100px;
+
+}
+
+header{
+  text-align: center;
+  color: lime;
+}
+
+.logo{
+  width: 20%;
+  height: 20%;
+
+}
+
+.bottoni{
+  background-color: lime;
+  border: solid 1px black;
+  width: 100%;
+  padding: 1%;
+  display: inline-block;
+  text-align: center;
+}
+
+main{
+  color: white;
+  font-size: larger;
+}
+
+section *{
+  margin: 0;
+}
+
+
+.carica{
+  border-radius: 10px;
+
+}
+
+.media{
+  width: 35%;
+  height: 40px;
+  background-color: #ffb225;
+}
+
+.piena{
+  width: 50%;
+  height: 40px;
+  background-color: lime;
+}
+
+.scarsa{
+  width: 20%;
+  height: 40px;
+  background-color: red;
+}
